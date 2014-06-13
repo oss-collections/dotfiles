@@ -1,0 +1,54 @@
+[submodule "holman"]
+	path = holman
+	url = https://github.com/holman/dotfiles.git
+[submodule "mathiasbynens"]
+	path = mathiasbynens
+	url = https://github.com/mathiasbynens/dotfiles.git
+[submodule "skwp"]
+	path = skwp
+	url = https://github.com/skwp/dotfiles.git
+[submodule "homesick"]
+	path = homesick
+	url = https://github.com/technicalpickles/homesick.git
+[submodule "homeshick"]
+	path = homeshick
+	url = https://github.com/andsens/homeshick.git
+[submodule "cowboy"]
+	path = cowboy
+	url = https://github.com/cowboy/dotfiles.git
+[submodule "paulmillr"]
+	path = paulmillr
+	url = https://github.com/paulmillr/dotfiles.git
+[submodule "eduardolundgren"]
+	path = eduardolundgren
+	url = https://github.com/eduardolundgren/dotfiles.git
+[submodule "oh-my-zsh"]
+	path = oh-my-zsh
+	url = https://github.com/robbyrussell/oh-my-zsh.git
+[submodule "bash-it"]
+	path = bash-it
+	url = https://github.com/revans/bash-it.git
+[submodule "rcm"]
+	path = rcm
+	url = https://github.com/thoughtbot/rcm.git
+[submodule "janus"]
+	path = janus
+	url = https://github.com/carlhuda/janus.git
+[submodule "ghar"]
+	path = ghar
+	url = https://github.com/philips/ghar.git
+[submodule "fresh"]
+	path = fresh
+	url = https://github.com/freshshell/fresh.git
+[submodule "vcsh"]
+	path = vcsh
+	url = https://github.com/RichiH/vcsh.git
+[submodule "gitignore"]
+	path = gitignore
+	url = https://github.com/github/gitignore.git
+[submodule "gibo"]
+	path = gibo
+	url = https://github.com/simonwhitaker/gibo.git
+[submodule "dotfiles.github.com"]
+	path = dotfiles.github.com
+	url = https://github.com/dotfiles/dotfiles.github.com.git
